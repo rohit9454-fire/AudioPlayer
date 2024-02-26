@@ -12,6 +12,7 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		5F96BF1F2B8C63E200A89811 /* dummy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F96BF1E2B8C63E200A89811 /* dummy.swift */; };
 		7699B88040F8A987B510C191 /* libPods-SPOTIFYMUSIC-SPOTIFYMUSICTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-SPOTIFYMUSIC-SPOTIFYMUSICTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -41,6 +42,27 @@
 		5709B34CF0A7D63546082F79 /* Pods-SPOTIFYMUSIC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPOTIFYMUSIC.release.xcconfig"; path = "Target Support Files/Pods-SPOTIFYMUSIC/Pods-SPOTIFYMUSIC.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.debug.xcconfig"; path = "Target Support Files/Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests/Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-SPOTIFYMUSIC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SPOTIFYMUSIC.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F7049E92B8CA247001A5B58 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fontisto.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		5F7049EA2B8CA247001A5B58 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Regular.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf"; sourceTree = "<group>"; };
+		5F7049EB2B8CA247001A5B58 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Brands.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf"; sourceTree = "<group>"; };
+		5F7049EC2B8CA247001A5B58 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Solid.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		5F7049ED2B8CA247001A5B58 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialIcons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		5F7049EE2B8CA247001A5B58 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Octicons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		5F7049EF2B8CA247001A5B58 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Foundation.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		5F7049F02B8CA247001A5B58 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Feather.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		5F7049F12B8CA247001A5B58 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AntDesign.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		5F7049F22B8CA247001A5B58 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SimpleLineIcons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		5F7049F32B8CA247001A5B58 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
+		5F7049F42B8CA247001A5B58 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Entypo.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		5F7049F52B8CA247001A5B58 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialCommunityIcons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		5F7049F62B8CA247001A5B58 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		5F7049F72B8CA247001A5B58 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		5F7049F82B8CA247001A5B58 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Zocial.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		5F7049F92B8CA247001A5B58 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		5F7049FA2B8CA247001A5B58 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Brands.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		5F7049FB2B8CA247001A5B58 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		5F96BF1D2B8C63E200A89811 /* SPOTIFYMUSIC-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SPOTIFYMUSIC-Bridging-Header.h"; sourceTree = "<group>"; };
+		5F96BF1E2B8C63E200A89811 /* dummy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dummy.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SPOTIFYMUSIC/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.release.xcconfig"; path = "Target Support Files/Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests/Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -106,6 +128,32 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5F7049E82B8CA1EF001A5B58 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				5F7049F12B8CA247001A5B58 /* AntDesign.ttf */,
+				5F7049F42B8CA247001A5B58 /* Entypo.ttf */,
+				5F7049F92B8CA247001A5B58 /* EvilIcons.ttf */,
+				5F7049F02B8CA247001A5B58 /* Feather.ttf */,
+				5F7049F62B8CA247001A5B58 /* FontAwesome.ttf */,
+				5F7049FA2B8CA247001A5B58 /* FontAwesome5_Brands.ttf */,
+				5F7049F72B8CA247001A5B58 /* FontAwesome5_Regular.ttf */,
+				5F7049EC2B8CA247001A5B58 /* FontAwesome5_Solid.ttf */,
+				5F7049EB2B8CA247001A5B58 /* FontAwesome6_Brands.ttf */,
+				5F7049EA2B8CA247001A5B58 /* FontAwesome6_Regular.ttf */,
+				5F7049F32B8CA247001A5B58 /* FontAwesome6_Solid.ttf */,
+				5F7049E92B8CA247001A5B58 /* Fontisto.ttf */,
+				5F7049EF2B8CA247001A5B58 /* Foundation.ttf */,
+				5F7049FB2B8CA247001A5B58 /* Ionicons.ttf */,
+				5F7049F52B8CA247001A5B58 /* MaterialCommunityIcons.ttf */,
+				5F7049ED2B8CA247001A5B58 /* MaterialIcons.ttf */,
+				5F7049EE2B8CA247001A5B58 /* Octicons.ttf */,
+				5F7049F22B8CA247001A5B58 /* SimpleLineIcons.ttf */,
+				5F7049F82B8CA247001A5B58 /* Zocial.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,12 +164,15 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				5F7049E82B8CA1EF001A5B58 /* Fonts */,
+				5F96BF1E2B8C63E200A89811 /* dummy.swift */,
 				13B07FAE1A68108700A75B9A /* SPOTIFYMUSIC */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* SPOTIFYMUSICTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				5F96BF1D2B8C63E200A89811 /* SPOTIFYMUSIC-Bridging-Header.h */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -206,7 +257,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						LastSwiftMigration = 1120;
+						LastSwiftMigration = 1520;
 					};
 				};
 			};
@@ -393,6 +444,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				5F96BF1F2B8C63E200A89811 /* dummy.swift in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +464,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -439,6 +492,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-SPOTIFYMUSIC-SPOTIFYMUSICTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = SPOTIFYMUSICTests/Info.plist;
@@ -480,6 +534,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SPOTIFYMUSIC;
+				SWIFT_OBJC_BRIDGING_HEADER = "SPOTIFYMUSIC-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -506,6 +561,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = SPOTIFYMUSIC;
+				SWIFT_OBJC_BRIDGING_HEADER = "SPOTIFYMUSIC-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
